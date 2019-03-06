@@ -8,33 +8,61 @@
 
         <div class="item active">
             <div class="container">
-                <div class="carousel-caption">
-                </div>
-                <div class="carousel-image wow zoomIn">
-                    <!-- <img src="static/img/landing/laptop.png" alt="laptop"/> -->
+                <div class="container">
+                    <div class="carousel-caption">
+                        <h1>吉林大学 iOS CLub</h1>
+                        <p>iOS 梦想家们改变世界的起点</p>
+                        <p><a class="btn btn-lg btn-primary" 
+                          href="https://github.com/jlu-ios-club" 
+                          role="button">Join us</a></p>
+                      </div>
                 </div>
             </div>
             <!-- Set background for slide in css -->
             <div
             class="header-back"
-            style="background-image: url({{ '/static/assets/img/' | prepend: site.baseurl }}{{ site.data.index.banners[0].src }});"
+            style="background-image: url({{ '/static/assets/img/' | 
+                prepend: site.baseurl }}{{ site.data.index.banners[0].src }});"
             title="{{ site.data.index.banners[0].title }}">
             </div>
         </div>
 
-        {% for banner in site.data.index.banners offset:1 %}
         <div class="item">
             <div class="container">
-                <div class="carousel-caption">
-                </div>
-                <div class="carousel-image wow zoomIn">
-                    <!-- <img src="static/img/landing/laptop.png" alt="laptop"/> -->
-                </div>
+                <div class="carousel-caption text-left">
+                    <h1>Apple Store优秀作品</h1>
+                    <p>探寻2018最具创意、最具影响力的作品</p>
+                    <p><a class="btn btn-lg btn-primary" 
+                      href="https://developer.apple.com/app-store/best-of-2018/" 
+                      role="button">Learn more</a></p>
+                  </div>
             </div>
             <!-- Set background for slide in css -->
-            <div class="header-back" style="background-image: url({{ "/static/assets/img/"  | prepend: site.baseurl }}{{ banner.src }});" title="{{ banner.title }}"></div>
+            <div 
+            class="header-back" 
+            style="background-image: url({{ '/static/assets/img/' | 
+                prepend: site.baseurl }}{{ site.data.index.banners[1].src }});"
+            title="{{ site.data.index.banners[1].title }}">
+            </div>
         </div>
-        {% endfor %}
+
+        <div class="item">
+            <div class="container">
+                <div class="carousel-caption text-right">
+                    <h1>Playground</h1>
+                    <p>尝试从playground入手领会swift的奥妙</p>
+                    <p><a class="btn btn-lg btn-primary" 
+                      href="https://www.apple.com/cn/swift/playgrounds/" 
+                      role="button">Play now</a></p>
+                  </div>
+            </div>
+            <!-- Set background for slide in css -->
+            <div class="header-back" 
+            style="background-image: url({{ '/static/assets/img/' | 
+                prepend: site.baseurl }}{{ site.data.index.banners[2].src }});"
+            title="{{ site.data.index.banners[2].title }}">
+            </div>
+        </div>
 
     </div>
     <a class="left carousel-control" href="#inSlider" role="button" data-slide="prev">
