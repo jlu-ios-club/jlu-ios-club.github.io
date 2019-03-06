@@ -3,10 +3,10 @@
   <channel>
     <title>JLU iOS CLub</title>
     <description>JLU iOS CLub's blog,use Jekyll and github pages.</description>
-    <link>http://localhost:4000/Jalpc/</link>
-    <atom:link href="http://localhost:4000/Jalpc/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 06 Mar 2019 10:00:22 +0800</pubDate>
-    <lastBuildDate>Wed, 06 Mar 2019 10:00:22 +0800</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 06 Mar 2019 10:06:56 +0800</pubDate>
+    <lastBuildDate>Wed, 06 Mar 2019 10:06:56 +0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -40,8 +40,8 @@ say_hello()   // &quot;hello world!&quot;
 &lt;p&gt;Side note comment: applied a bug fix similar to &lt;a href=&quot;https://github.com/Atlas7/atlas7.github.io/commit/6659f4a47f6ec66987adb0f683a9c6f3842252ae#diff-818954a41dbfb01af70050a459c603b9&quot;&gt;this commit&lt;/a&gt; to ensure code snippet does not collapse unexpectly upon clicking on it. This issue is tracked &lt;a href=&quot;https://github.com/jarrekk/Jalpc/issues/97&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Thu, 21 Dec 2017 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/Jalpc/html/2017/12/21/test-code-snippets.html</link>
-        <guid isPermaLink="true">http://localhost:4000/Jalpc/html/2017/12/21/test-code-snippets.html</guid>
+        <link>http://localhost:4000/html/2017/12/21/test-code-snippets.html</link>
+        <guid isPermaLink="true">http://localhost:4000/html/2017/12/21/test-code-snippets.html</guid>
         
         <category>Jalpc</category>
         
@@ -62,8 +62,8 @@ say_hello()   // &quot;hello world!&quot;
   &lt;li&gt;
     &lt;p&gt;Fork &lt;a href=&quot;https://github.com/jarrekk/Jalpc&quot;&gt;this project – Jalpc&lt;/a&gt; at &lt;a href=&quot;https://github.com&quot;&gt;GitHub&lt;/a&gt;. If you want to edit website at github, do it as following gif or clone forked repository. &lt;code class=&quot;highlighter-rouge&quot;&gt;git clone git@github.com:github_username/Jalpc.git&lt;/code&gt;.&lt;/p&gt;
 
-    &lt;p&gt;&lt;!-- ![edit](/Jalpc/static/assets/img/blog/3steps/edit.gif) --&gt;
- &lt;img src=&quot;/Jalpc/static/assets/img/blog/3steps/edit.gif&quot; width=&quot;75%&quot; /&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;!-- ![edit](/static/assets/img/blog/3steps/edit.gif) --&gt;
+ &lt;img src=&quot;/static/assets/img/blog/3steps/edit.gif&quot; width=&quot;75%&quot; /&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Enter into repository directory and edit following file list:&lt;/p&gt;
@@ -99,8 +99,8 @@ say_hello()   // &quot;hello world!&quot;
 &lt;p&gt;If you like this repository, I appreciate you star this repository. Please don’t hesitate to mail me or post issues on GitHub if you have any questions. Hope you have a happy blog time!😊&lt;/p&gt;
 </description>
         <pubDate>Tue, 31 Jan 2017 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/Jalpc/html/2017/01/31/3-steps-to-setup-website-with-Jalpc.html</link>
-        <guid isPermaLink="true">http://localhost:4000/Jalpc/html/2017/01/31/3-steps-to-setup-website-with-Jalpc.html</guid>
+        <link>http://localhost:4000/html/2017/01/31/3-steps-to-setup-website-with-Jalpc.html</link>
+        <guid isPermaLink="true">http://localhost:4000/html/2017/01/31/3-steps-to-setup-website-with-Jalpc.html</guid>
         
         <category>Jalpc</category>
         
