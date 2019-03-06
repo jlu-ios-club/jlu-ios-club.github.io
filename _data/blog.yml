@@ -2,21 +2,19 @@
 - name: Blog
   href: /blog/
 
-# edit following lines to custom your blog page, make sure name is the same as href but capitalized first letter(except HTML)
-- name: Python
-  href: /python/
+# edit following lines to custom your blog page, 
+# make sure name is the same as href but capitalized first letter(except HTML)
+- name: Mac
+  href: /mac/
 
-- name: Linux
-  href: /linux/
+- name: Swift
+  href: /swift/
 
 - name: HTML
   href: /html/
 
-- name: Database
-  href: /database/
-
-- name: Mac
-  href: /mac/
+- name: Design
+  href: /design/
 
 - name: Life
   href: /life/

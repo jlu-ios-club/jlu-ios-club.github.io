@@ -1,10 +1,10 @@
 {
   "website":{
-    "title": "杰克的博客"
+    "title": "吉林大学 iOS CLub 站点"
   },
   "nav":{
     "home": "首页",
-    "about_me": "关于我",
+    "about_me": "关于我们",
     "skills": "技能",
     "projects": "项目",
     "career": "职业",
@@ -50,5 +50,4 @@
     "link": "友情链接",
     "view": "次访问"
   }
-
 }
