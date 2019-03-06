@@ -12,8 +12,8 @@ img_path: /static/assets/img/blog  # url should be '/homepage/static/assets/img/
 # author -- index page "about me" section
 author:  # change following line to your infomation.
   name: JLU iOS CLub  # Be used at blog posts' author.
-  first_name: Fangming  # Be used at index page about me section.
-  last_name: GU  # Be used at index page about me section.
+  first_name: JLU  # Be used at index page about me section.
+  last_name: iOS CLub  # Be used at index page about me section.
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
   github_username: jlu-ios-club  # Leave blank if you don't have now
   linkedin_id: # Leave blank if you don't have now
