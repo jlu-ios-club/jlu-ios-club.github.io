@@ -1,29 +1,30 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
+# 把job当作相关人员
 - name:
-    detail: Company A
-    i18n: company_a
+    detail: Communication
+    i18n: communication_a
   desc:
-    detail: I worked at Company A ...
-    i18n: company_a_desc
+    detail: communication_a
+    i18n: communication_a_desc
   date:
-    detail: Apr. 2016
-    i18n: company_a_date
+    detail: Apr. 2018
+    i18n: communication_a_date
   job:
-    detail: CTO
-    i18n: company_a_job
+    detail: Liu Anbo
+    i18n: communication_a_job
   icon: fa-plus-square
 
 - name:
-    detail: Company B
-    i18n: company_b
+    detail: Born
+    i18n: born
   desc:
-    detail: I worked at Company B ...
-    i18n: company_b_desc
+    detail: JLU iOS CLub is born today.
+    i18n: born_desc
   date:
-    detail: Jun. 2015
-    i18n: company_b_date
+    detail: Mar. 2018
+    i18n: born_date
   job:
-    detail: Full Stack Developer
-    i18n: company_b_job
+    detail: Liu Anbo
+    i18n: born_job
   icon: fa-plus-square
