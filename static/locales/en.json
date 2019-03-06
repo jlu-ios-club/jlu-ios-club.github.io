@@ -7,7 +7,7 @@
     "about_me": "About",
     "skills": "Skills",
     "projects": "Projects",
-    "career": "Career",
+    "career": "Events",
     "blog": "Blog",
     "link": "Link"
   },
@@ -19,13 +19,13 @@
     "my_skills": "Our Skills"
   },
   "projects":{
-    "my_projects": "Our Projects",
-    "jalpc": "This project is my project. I use javescript to get repo's information all my repos have only one request.",
-    "cpython": "This project is other's project. I use another request to get repo's information.",
+    "my_projects": "Projects",
+    "jalpc": "This project is own to jarrekk. Our blog is based on his theme.",
+    "jlulife": "This project is own to Steven128. A campus assistant for the students of Jilin University.",
     "familycode": "This is another project."
   },
   "career":{
-    "my_career": "Development Journey",
+    "my_career": "Events",
     "communication_a": "Communication",
     "communication_a_des": "communication_a",
     "communication_a_date": "Apr. 2018",

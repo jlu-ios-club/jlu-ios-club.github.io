@@ -7,9 +7,9 @@
     "about_me": "关于我们",
     "skills": "涉猎",
     "projects": "项目",
-    "career": "职业",
+    "career": "事件",
     "blog": "博客",
-    "link": "友情链接"
+    "link": "链接"
   },
   "about_me":{
     "about_me": "关于我们",
@@ -19,13 +19,13 @@
     "my_skills": "我们的涉猎点"
   },
   "projects":{
-    "my_projects": "我们的项目",
-    "jalpc": "这是一个我们的GitHub项目.",
-    "cpython": "这是一个别人的GitHub项目.",
+    "my_projects": "项目",
+    "jalpc": "由jarrekk开发，我们的博客站点基于它的主题开发。",
+    "jlulife": "由Steven128开发，一个面向吉大学生的校园助手APP。",
     "familycode": "这是另外一个项目."
   },
   "career":{
-    "my_career": "发展旅程",
+    "my_career": "事件",
     "communication_a": "交流会",
     "communication_a_des": "communication_a",
     "communication_a_date": "2018年4月",
@@ -36,7 +36,7 @@
     "born_job": "刘安博"
   },
   "blog":{
-    "my_blog": "我们的博客站点"
+    "my_blog": "我们的博客"
   },
   "link":{
     "link": "链接",

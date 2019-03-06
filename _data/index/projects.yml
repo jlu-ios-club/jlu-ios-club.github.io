@@ -6,17 +6,11 @@
   gh_user: jarrekk
   repo: Jalpc
   img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+  desc: This project is own to jarrekk. Our blog is based on his theme.
 
 - name: JLU Life
-  i18n: cjlulife
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
-
-- name: Google
-  i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
+  i18n: jlulife
+  gh_user: Steven128
+  repo: JLUlife
+  img: /static/assets/img/landing/jlulife.png
+  desc: This project is own to Steven128. A campus assistant for the students of Jilin University.
