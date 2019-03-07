@@ -1,6 +1,6 @@
 {
   "website":{
-    "title": "JLU iOS CLub's blog"
+    "title": "JLU iOS Club's blog"
   },
   "nav":{
     "home": "Home",
@@ -29,11 +29,11 @@
     "communication_a": "Communication",
     "communication_a_des": "The first communication meeting.",
     "communication_a_date": "Apr. 2018",
-    "communication_a_job": "Liu Anbo",
+    "communication_a_people": "Liu Anbo",
     "born": "Born",
-    "born_des": "JLU iOS CLub is born today.",
+    "born_des": "JLU iOS Club is born today.",
     "born_date": "Mar. 2018",
-    "born_job": "Liu Anbo"
+    "born_people": "Liu Anbo"
   },
   "blog":{
     "my_blog": "Our Blog"

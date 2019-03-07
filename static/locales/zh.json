@@ -1,6 +1,6 @@
 {
   "website":{
-    "title": "吉林大学 iOS CLub 站点"
+    "title": "吉林大学 iOS Club 站点"
   },
   "nav":{
     "home": "首页",
@@ -29,11 +29,11 @@
     "communication_a": "交流会",
     "communication_a_des": "第一次宣讲会。",
     "communication_a_date": "2018年4月",
-    "communication_a_job": "刘安博",
+    "communication_a_people": "刘安博",
     "born": "成立",
-    "born_des": "JLU iOS CLub 成立。",
+    "born_des": "JLU iOS Club 成立。",
     "born_date": "2018年3月",
-    "born_job": "刘安博"
+    "born_people": "刘安博"
   },
   "blog":{
     "my_blog": "我们的博客"

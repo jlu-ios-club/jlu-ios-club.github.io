@@ -2,7 +2,7 @@
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 
 # 我尝试把careers变量名改为events，但是炸了，
-# 请把careers理解为events，job理解为people
+# 请把careers理解为events
 
 - name:
     detail: Communication
@@ -13,21 +13,21 @@
   date:
     detail: Apr. 2018
     i18n: communication_a_date
-  job:
+  people:
     detail: Liu Anbo
-    i18n: communication_a_job
+    i18n: communication_a_people
   icon: fa-plus-square
 
 - name:
     detail: Born
     i18n: born
   desc:
-    detail: JLU iOS CLub is born today.
+    detail: JLU iOS Club is born today.
     i18n: born_desc
   date:
     detail: Mar. 2018
     i18n: born_date
-  job:
+  people:
     detail: Liu Anbo
-    i18n: born_job
+    i18n: born_people
   icon: fa-plus-square
