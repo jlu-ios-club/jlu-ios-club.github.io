@@ -1,9 +1,5 @@
-# careers section data
+# events section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
-
-# 我尝试把careers变量名改为events，但是炸了，
-# 请把careers理解为events
-
 - name:
     detail: Communication
     i18n: communication_a
