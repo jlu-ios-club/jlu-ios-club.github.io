@@ -1,18 +1,18 @@
 # links section data
-- last_name: Gu
-  first_name: Fangming
-  desc: Teacher
-  website: 
-  email: 
+- last_name: Wang
+  first_name: ZeLin
+  desc: JuLao
+  website: https://github.com/Gwzlchn
+  email: wangzl1116@mails.jlu.edu.cn
 
 - last_name: Bai
   first_name: Ning
   desc: Leader
   website: https://github.com/BurningNeverCry
-  email: 
+  email: baining2116@mails.jlu.edu.cn
 
 - last_name: Lu
-  first_name: Zixv
+  first_name: ZiXv
   desc: Coder
   website: https://github.com/CloudMagician
   email: luzx1916@mails.jlu.edu.cn
