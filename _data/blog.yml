@@ -7,14 +7,23 @@
 - name: Mac
   href: /mac/
 
-- name: Swift
-  href: /swift/
+- name: Language
+  href: /language/
+
+- name: Algorithm
+  href: /algorithm/
 
 - name: HTML
   href: /html/
 
 - name: Design
   href: /design/
+
+- name: Tips
+  href: /tips/
+
+- name: Experience
+  href: /experience/
 
 - name: Life
   href: /life/
