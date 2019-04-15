@@ -23,11 +23,11 @@ author:  # change following line to your infomation.
   cv: # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
-    - name: icon-apache
-    - name: fa-linux
+    - name: icon-github
+    - name: fa-apple
   skill_icon2:
-    - name: fa-linux
-    - name: icon-apache
+    - name: fa-apple
+    - name: icon-github
   desc: JLU iOS Club  # Describe yourself.
 
 # comment
