@@ -1,6 +1,6 @@
 {
   "website":{
-    "title": "吉林大学 iOS Club 站点"
+    "title": "吉林大学 iOS Club 博客"
   },
   "nav":{
     "home": "首页",
@@ -13,7 +13,7 @@
   },
   "about_me":{
     "about_me": "关于我们",
-    "des": "站在人文与科技交汇点上。"
+    "des": "站在人文与科技的交汇点上。"
   },
   "skills":{
     "my_skills": "我们的涉猎点"
@@ -26,6 +26,10 @@
   },
   "events":{
     "my_events": "事件",
+    "recruitment_b": "纳新",
+    "recruitment_b_des": "第二次纳新。",
+    "recruitment_b_date": "2019年4月",
+    "recruitment_b_people": "陆子旭",
     "communication_a": "交流会",
     "communication_a_des": "第一次宣讲会。",
     "communication_a_date": "2018年4月",
