@@ -26,12 +26,16 @@
   },
   "events":{
     "my_events": "Events",
+    "recruitment_b": "Recruitment",
+    "recruitment_b_desc": "The second recruitment meeting.",
+    "recruitment_b_date": "Apr. 2019",
+    "recruitment_b_people": "Lu Zixv",
     "communication_a": "Communication",
-    "communication_a_des": "The first communication meeting.",
+    "communication_a_desc": "The first communication meeting.",
     "communication_a_date": "Apr. 2018",
     "communication_a_people": "Liu Anbo",
     "born": "Born",
-    "born_des": "JLU iOS Club is born today.",
+    "born_desc": "JLU iOS Club is born.",
     "born_date": "Mar. 2018",
     "born_people": "Liu Anbo"
   },

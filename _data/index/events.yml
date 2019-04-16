@@ -1,6 +1,20 @@
 # events section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: Recruitment
+    i18n: recruitment_b
+  desc:
+    detail: The second recruitment meeting.
+    i18n: recruitment_b_desc
+  date:
+    detail: Apr. 2019
+    i18n: recruitment_b_date
+  people:
+    detail: Lu Zixv
+    i18n: recruitment_b_people
+  icon: fa-plus-square
+
+- name:
     detail: Communication
     i18n: communication_a
   desc:
