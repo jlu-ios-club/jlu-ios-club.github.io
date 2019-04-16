@@ -4,8 +4,8 @@
 
 # edit following lines to custom your blog page, 
 # make sure name is the same as href but capitalized first letter(except HTML)
-- name: Mac
-  href: /mac/
+- name: Apple
+  href: /apple/
 
 - name: Code
   href: /code/
@@ -13,14 +13,14 @@
 - name: HTML
   href: /html/
 
-- name: Design
-  href: /design/
-
 - name: Experience
   href: /experience/
 
 - name: Life
   href: /life/
+
+- name: Other
+  href: /other/
 
 # Don't display donation page: change donation to off at file '_config.yml'
 - name: Donate
