@@ -27,15 +27,15 @@
   "events":{
     "my_events": "事件",
     "recruitment_b": "纳新",
-    "recruitment_b_des": "第二次纳新。",
+    "recruitment_b_desc": "第二次纳新。",
     "recruitment_b_date": "2019年4月",
     "recruitment_b_people": "陆子旭",
     "communication_a": "交流会",
-    "communication_a_des": "第一次宣讲会。",
+    "communication_a_desc": "第一次宣讲会。",
     "communication_a_date": "2018年4月",
     "communication_a_people": "刘安博",
     "born": "成立",
-    "born_des": "JLU iOS Club 成立。",
+    "born_desc": "JLU iOS Club 成立。",
     "born_date": "2018年3月",
     "born_people": "刘安博"
   },
