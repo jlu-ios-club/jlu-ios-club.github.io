@@ -19,3 +19,9 @@ icon: fa-github
 # 具体使用
 
 一般而言，kanban分三块即可，即To Do（要做）、In Progress（在做）、Done（做完），以此来划分任务。GitHub自带的kanban中，选择basis模式即可生成简单看板。通过简单的拖拽，即可完成所创建任务tag的状态变动。同时，kanban会记录下每一个操作的过程，来起到一个团队协作与管理的作用。
+
+# 事例
+
+* [社团看板](https://github.com/orgs/jlu-ios-club/projects/1)
+
+* [博客看板](https://github.com/jlu-ios-club/jlu-ios-club.github.io/projects/4)
