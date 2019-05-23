@@ -10,8 +10,6 @@ tags: [Python]
 icon: fa-apple
 ---
 
-# Mac多版本Python管理及基本使用
-
 摸了，等会写
 
 [参考](https://blog.csdn.net/coding_dong/article/details/80343756)

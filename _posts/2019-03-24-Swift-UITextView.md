@@ -10,8 +10,6 @@ tags: [Swift,UITextView]
 icon: fa-apple
 ---
 
-# Swift-UITextView
-
 事情起源于在我码编译原理代码的时候，想实现在设备上显示不会自动换行的大量文字。即必须允许可以上下左右拖拽TextView，直接使用一个TextView貌似没法实现（就是我没找到方法），于是需要一个ScrollView作为TextView的容器，具体方法如下：（无需多少英文水平，就不翻译了）
 
 1. So, firstly, we need a longlonglong String, right?
