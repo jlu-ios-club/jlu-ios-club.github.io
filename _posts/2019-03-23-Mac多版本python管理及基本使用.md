@@ -12,6 +12,6 @@ icon: fa-apple
 
 # Mac多版本Python管理及基本使用
 
-摸了
+摸了，有空整理下。
 
 [参考](https://blog.csdn.net/coding_dong/article/details/80343756)
