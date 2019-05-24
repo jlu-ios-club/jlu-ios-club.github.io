@@ -10,9 +10,7 @@ tags: [Python3]
 icon: fa-apple
 ---
 
-# Mac-Python3-pip-配置国内源（推荐用阿里云的）
-
-## 国内源
+# 国内源
 
 1. [阿里云](http://mirrors.aliyun.com/pypi/simple/)
 2. [中国科技大学](https://pypi.mirrors.ustc.edu.cn/simple/)
@@ -20,7 +18,7 @@ icon: fa-apple
 2. [清华大学](https://pypi.tuna.tsinghua.edu.cn/simple/)
 2. [中国科学技术大学](http://pypi.mirrors.ustc.edu.cn/simple/)
 
-## 安装时指定
+# 安装时指定
 
 ```shell
 ~ pip install ipython -i http://mirrors.aliyun.com/pypi/simple/ --trusted-host mirrors.aliyun.com
@@ -28,7 +26,7 @@ icon: fa-apple
 
 ```
 
-## 永久指定
+# 永久指定
 
 ```shell
 # Mac OS
