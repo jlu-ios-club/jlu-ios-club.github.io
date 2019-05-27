@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Swift-设置不可使用的按钮"
+author: "陆子旭"
+date:   2019-04-03
+desc: ""
+keywords: "Swift"
+categories: [Code]
+tags: [Swift,UIButton]
+icon: fa-apple
+---
+
+有时会遇到需要将按钮的样式变为不可使用，当满足一定条件后才可以使用的情况，此时可以这样做：
+```Swift
+self.button.userInteractionEnabled=NO;//交互关闭
+self.button.alpha=0.4;//透明度
+```
+再开过来同理
+
+[参考](https://blog.csdn.net/jiaxin_1105/article/details/51361524)
