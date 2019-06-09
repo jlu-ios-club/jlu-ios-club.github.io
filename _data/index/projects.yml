@@ -15,7 +15,7 @@
   img: /static/assets/img/landing/jlulife.png
   desc: This project is own to Steven128. A campus assistant for the students of Jilin University.
 
-  - name: SNL Complier
+- name: SNL-Complier
   i18n: snlcomplier
   gh_user: jlu-ios-club
   repo: SNL-Complier
